@@ -9,3 +9,4 @@ app-example
 node_modules
 .expo
 .vscode
+android/app/debug.keystore
